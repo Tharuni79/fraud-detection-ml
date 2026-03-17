@@ -62,7 +62,3 @@ This project builds a machine learning system to detect fraudulent credit card t
 - Random Forest and XGBoost showed strong performance in detecting fraud
 - SMOTE improved detection of minority fraud cases
 - Model successfully identifies fraudulent transactions with high recall
-
----
-
-## 🧪 Sample Prediction
